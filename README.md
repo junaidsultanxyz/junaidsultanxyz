@@ -1,6 +1,6 @@
 # Hi, I'm Junaid Sultan
 
-I'm a Java developer who enjoys building practical and user-friendly applications. I work across desktop, mobile, and web platforms with a strong focus on Java.
+I'm a Java developer. I work across desktop, mobile, and web platforms with a strong focus on Java.
 
 ---
 
@@ -10,28 +10,25 @@ I'm a Java developer who enjoys building practical and user-friendly application
 Java
 
 **Frameworks:**  
-Spring Boot, React
+Spring Boot, Angular
 
 **Mobile Development:**  
 Android (Java + XML)
 
 **Desktop Development:**  
-Java Swing
+Java Swing, FX
 
 **Databases & Backend:**  
 Firebase (Auth, Firestore, Realtime DB), MySQL
 
 **Tools:**  
-Android Studio, VS Code, Git, GitHub
+VS Code, IntelliJ, Git, GitHub, Android Studio
 
 ---
 
 ## 📂 Projects
 
-- **Study Assistant App** – Android app using Firebase and OpenAI API to provide students with AI-based study support  
-- **Persistent Stopwatch** – Android stopwatch that continues running in the background and survives app restarts  
-- **Java GUI Tools** – Utility desktop applications using Swing and JavaFX  
-- **React + Spring Boot Portfolio** – Full-stack portfolio site to showcase projects
+- **StudyWise** – Android app using Firebase and OpenAI API to provide students with AI-based study support
 
 ---
 
@@ -51,14 +48,11 @@ Android Studio, VS Code, Git, GitHub
 
 - Build production-ready full-stack applications  
 - Learn more about cloud deployment and scalable backend systems  
-- Continue improving Java and React development skills
+- Continue improving Java and Angular development skills
 
 ---
 
 ## 📫 Contact
 
 - [LinkedIn](https://linkedin.com/in/junaidxyz)
-
----
-
-> Feel free to explore my repositories.
+- [Email](jsultanwork@gmail.com)
