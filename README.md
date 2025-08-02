@@ -61,5 +61,5 @@ I am a **Java-focused Software Engineer** with a passion for building **scalable
 
 ## Contact Me
 - **Email:** [junaid@devjuni.com](mailto:junaid@devjuni.com)  
-- **LinkedIn:** [linkedin.com/in/junaidsultanxyz](https://linkedin.com/in/junaidsultanxyz)  
+- **LinkedIn:** [linkedin.com/in/junaidsultanxyz](https://linkedin.com/in/junaidxyz)
 - **Portfolio:** [devjuni.com/portfolio](https://devjuni.com/portfolio)
