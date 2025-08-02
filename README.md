@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:junaid@devjuni.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=flat&logo=gmail"></a>
-  <a href="https://linkedin.com/in/junaidsultanxyz"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/junaidxyz"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/junaidsultanxyz"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github"></a>
 </p>
 
