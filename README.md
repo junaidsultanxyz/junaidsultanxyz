@@ -54,5 +54,5 @@ VS Code, IntelliJ, Git, GitHub, Android Studio
 
 ## 📫 Contact
 
+- [Email] junaid@devjuni.com
 - [LinkedIn](https://linkedin.com/in/junaidxyz)
-- [Email](jsultanwork@gmail.com)
