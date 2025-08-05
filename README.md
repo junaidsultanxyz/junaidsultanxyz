@@ -38,7 +38,7 @@ I am a **Java-focused Software Engineer** with a passion for building **scalable
 
 - [**StudyWise**](https://github.com/junaidsultanxyz/StudyWise) – Java | Android | Firebase | OpenAI GPT  
 - [**POS System**](https://github.com/junaidsultanxyz/POS-JavaFX) – Java | JavaFX | MySQL  
-- [**Election System**](https://github.com/junaidsultanxyz/ElectionSystem) – Java | Swing  
+- [**Election System**](https://github.com/junaidsultanxyz/ElectionSystem) – Java | Swing | MySQL
 
 
 ---
