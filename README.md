@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Hi,+I'm+Junaid+Sultan;Welcome+to+my+Github+profile;Java+Developer+%7C+Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Hi,+I'm+Junaid+Sultan;Java+%7C+Angular+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 ---
 
 ## About Me
-I am a **Java-focused Software Engineer** with a passion for building **scalable backends**, **high-performance applications**, and clean, maintainable code.  
+I am a **Java & Angular Developer** with a passion for building **scalable backends**, **high-performance applications**, and clean, maintainable code.  
 
-- **Core Expertise** : Java, Spring Boot, JavaFX
+- **Core Expertise** : Java, Spring Boot, AngularJS
 - **Strengths**      : Clean Architecture, Test-Driven Development, Resource-Efficient code
 
 ---
@@ -36,18 +36,10 @@ I am a **Java-focused Software Engineer** with a passion for building **scalable
 
 ## Projects
 
-- [**StudyWise**](https://github.com/junaidsultanxyz/StudyWise) – Java | Android | Firebase | OpenAI GPT  
-- [**POS System**](https://github.com/junaidsultanxyz/POS-JavaFX) – Java | JavaFX | MySQL  
+- [**InvoiceMaker**](https://github.com/junaidsultanxyz/invoice-generator) – Angular
+- [**Game Engine**](https://github.com/junaidsultanxyz/Raylib-Java-GameEngine) – Java | Raylib
 - [**Election System**](https://github.com/junaidsultanxyz/ElectionSystem) – Java | Swing | MySQL
 
-
----
-
-## GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidsultanxyz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsultanxyz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -63,4 +55,4 @@ I am a **Java-focused Software Engineer** with a passion for building **scalable
 ## Contact Me
 - **Email:** [junaid@devjuni.com](mailto:junaid@devjuni.com)  
 - **LinkedIn:** [linkedin.com/in/junaidxyz](https://linkedin.com/in/junaidxyz)
-- **Portfolio:** [devjuni.com/portfolio](https://devjuni.com/portfolio)
+- **Website:** [devjuni.com](https://devjuni.com)
