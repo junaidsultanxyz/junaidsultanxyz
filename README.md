@@ -10,6 +10,6 @@ Hi, i am Junaid Sultan. I am currently working on AI Integration & Backend Servi
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Contact Me
-- **Email:** [jsultanwork@gmail.com](mailto:jsultanwork@gmail.com)  
+- **Email:** [contact@junaidsultan.com](mailto:contact@junaidsultan.com)  
 - **LinkedIn:** [linkedin.com/in/junaidxyz](https://linkedin.com/in/junaidxyz)
 - **Website:** [junaidsultan.com](https://junaidsultan.com)
