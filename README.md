@@ -1,5 +1,5 @@
 ## About Me
-Hi, i am Junaid Sultan. I am currently working on AI Integration & Backend Services in Python, Rust and Java.
+Hi, i am Junaid Sultan. I am a Rust developer, using it mainly for backend services and cli tools.
 
 ![Rust](https://img.shields.io/badge/rust-%23B7410E.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
